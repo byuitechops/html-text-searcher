@@ -1,0 +1,25 @@
+{
+  "name": "html-text-searcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^9.6.0",
+    "promise-limit": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/html-text-searcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byuitechops/html-text-searcher/issues"
+  },
+  "homepage": "https://github.com/byuitechops/html-text-searcher#readme"
+}
