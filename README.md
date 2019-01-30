@@ -1,6 +1,7 @@
 # html-text-searcher
 ## Description 
-This tool allows users to...
+This tool was created to search a list of urls for a name, phone number and email. It then will output a csv
+file that shows if the items are contained, and if not it will say whether or not the url is working.
 
 ## How to Install
 
