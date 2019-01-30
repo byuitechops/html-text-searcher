@@ -82,13 +82,11 @@ async function main() {
     // find the string and then write it out to a csv file
     try {
         var results = await findTheString();
-        console.log(results);
 
         var csvData = d3.csvFormat(results, [
             "Course",
             "Is It Present"
         ]);
-        console.log(path.resolve());
         fs.writeFileSync(path.resolve('./results.csv'), csvData);
     } catch (error) {
         console.log(error);
