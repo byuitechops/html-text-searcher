@@ -33,7 +33,7 @@ the variables inside the object should be as follows:
 ```bash
 {
     "course": "comp-ACCTG205",
-    "url": "https://content.byui.edu/integ/gen/19247ef2-d200-4e12-aff0-33980b734e13/0/acctg205syllabus.html"
+    "url": "linktoyourtext.com"
 }
 ```
 This needs to be provided as the second argument.
