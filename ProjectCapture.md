@@ -1,4 +1,4 @@
-# Project Capture Document for (Title of Project)
+# Project Capture Document for HTML Text Searcher
 #### *Author: Seth Childers*
 #### *Stakeholder(s): Jilane Richardson*
 #### *Date: Friday March 08, 2019*
