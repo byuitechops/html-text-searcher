@@ -38,7 +38,7 @@ Jilane Richardson: richardsonji@byui.edu
 
 Report: 
 | Course Identifier | Link to Reference |
------------------------------------------
+| ------------------------------------- |
 | 1234 | byui.instructure.com/courses/1234/modules/4321/moduleItems/2345 |
 
 ---
