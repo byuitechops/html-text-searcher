@@ -1,7 +1,7 @@
 # Project Capture Document for (Title of Project)
-#### *Author: Your_Name_Here*
-#### *Stakeholder(s): Their_Names_With_Commas*
-#### *Date: Todays Date*
+#### *Author: Seth Childers*
+#### *Stakeholder(s): Jilane Richardson*
+#### *Date: Friday March 08, 2019*
 
 
 ## Background
